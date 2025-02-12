@@ -1,0 +1,19 @@
+# Core libraries
+sys
+os
+pandas==<pandas_version>
+numpy==<numpy_version>
+IPython==<ipython_version>
+matplotlib==<matplotlib_version>
+
+# Data science and machine learning libraries
+seaborn==<seaborn_version>
+tensorflow==<tensorflow_version>
+scipy==<scipy_version>
+
+# Google Colab specific libraries
+pydrive==<pydrive_version>
+google.colab
+oauth2client.client==<oauth2client.client_version>
+statsmodels==<statsmodels_version>
+googleapiclient.discovery==<googleapiclient.discovery_version>
